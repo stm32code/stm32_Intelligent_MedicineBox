@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">智能药箱</string>
+    <string name="debug">调试</string>
+    <string name="history">历史数据</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
